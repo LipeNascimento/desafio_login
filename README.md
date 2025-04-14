@@ -1,4 +1,4 @@
-# Atividade de Fixação - Flutter
+# Atividade de Fixação - Flutter 
 
 
 Este projeto é parte de uma atividade de fixação da disciplina Usabilidade, Web, Mobile e Games, ministrada pelo professor Alexandre Montanha. 
